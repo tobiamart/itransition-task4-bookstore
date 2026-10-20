@@ -1,0 +1,8 @@
+{
+  "functions": {
+    "api/chat.py": {
+      "includeFiles": "{store_data,data}/**",
+      "maxDuration": 60
+    }
+  }
+}
